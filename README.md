@@ -1,1 +1,3 @@
-# firstproject
+# firstprojec
+
+simple projects in python
